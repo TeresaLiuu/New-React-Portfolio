@@ -1,7 +1,18 @@
 #AboutMeBackGround{
-    background-image: url('../../images/skyBg1.jpg');
+    background-image: url('../../images/colorful-wall-geometry.jpg');
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
+
+h1, h2{
+  padding: 20px;
+}
+
+p{
+  display: block;
+  padding-left:50px;
+  padding-right: 50px;
+  margin-bottom: 0;
+}
